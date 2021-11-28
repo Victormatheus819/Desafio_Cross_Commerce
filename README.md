@@ -7,7 +7,7 @@ Para come~car seu servidor Phoenix :
 
 Agora você consegue rodar [`localhost:4000`](http://localhost:4000) no seu browser.
 
-Endpoint do desafio :
+### Endpoint do desafio :
  [`localhost:4000/api/start`](http://localhost:4000/api/start)
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
